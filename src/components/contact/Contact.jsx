@@ -45,7 +45,7 @@ const Contact = () => {
             <h4>Telegram</h4>
             <h5>Sasikumar.S</h5>
             <a
-              href="http://telegram.org/+916382229485"
+              href="http://t.me/+916382229485"
               target="_blank"
               rel="noreferrer"
             >
